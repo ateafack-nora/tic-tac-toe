@@ -26,6 +26,7 @@ export default function Board() {
         <Square />
       </div>
       <div className="board-row">
+        <p>Nora</p>
         <Square />
         <Square />
         <Square />
